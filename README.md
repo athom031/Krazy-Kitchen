@@ -4,7 +4,9 @@ Krazy Kitchen is an online cooperative game where a group of your friends attemp
 
 ## Demo
 ![img](https://github.com/athom031/KrazyKitchen/blob/master/KrazyKitchen.png)
-[Video](https://www.youtube.com/watch?v=16-g_YCpumI)
+<br/>
+
+### [Video](https://www.youtube.com/watch?v=16-g_YCpumI)
 
 ## Built With
 
