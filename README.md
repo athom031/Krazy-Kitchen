@@ -34,4 +34,4 @@ Krazy Kitchen is a thrilling online cooperative game that challenges you and you
 * [Interactable](https://docs.unity3d.com/540/Documentation/ScriptReference/UI.Selectable-interactable.html)
 
 ## Inspiration:
-[Overcooked](https://store.steampowered.com/app/448510/Overcooked/)- chaotic couch co-op cooking game
+[Overcooked](https://store.steampowered.com/app/448510/Overcooked/) - chaotic couch co-op cooking game
